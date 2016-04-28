@@ -1,2 +1,4 @@
-# docker-flower-redis
-Docker repository for Flower
+# Flower
+Docker repository for Flower with redis support.
+
+Image is running with `--url_prefix=flower` option.
